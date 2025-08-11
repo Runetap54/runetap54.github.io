@@ -1,10 +1,6 @@
 {
   "datasets": [
-    {
-      "slug": "portside",
-      "title": "Portside",
-      "path": "datasets/portside.html"
-    },
+   
     {
       "slug": "12809-merial",
       "title": "12809-merial",
