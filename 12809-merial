@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>12809 Merial Green Way — Listing Data</title>
+  <!-- Keep it public but out of search results -->
+  <meta name="robots" content="noindex,follow" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;margin:24px;line-height:1.55;color:#111}
+    h1{margin:0 0 4px 0}
+    .subtle{color:#555;margin:0 0 16px 0}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
+    .card{background:#f6f8fa;padding:16px;border-radius:10px}
+    table{width:100%;border-collapse:collapse}
+    th,td{padding:8px;border-bottom:1px solid #e5e7eb;text-align:left;vertical-align:top}
+    pre{white-space:pre-wrap;background:#0b1220;color:#e7ecf3;padding:16px;border-radius:10px;overflow:auto}
+    a{color:#0b5fff;text-decoration:none}
+  </style>
+</head>
+<body>
+  <header>
+    <h1>12809 Merial Green Way, Southport, FL 32409</h1>
+    <p class="subtle">Lake Merial Phase One · Detached Single Family · Bay County</p>
+  </header>
+
+  <section class="grid" aria-label="Quick facts">
+    <div class="card">
+      <h3>Pricing</h3>
+      <p><strong>List price:</strong> $599,900</p>
+      <p><strong>Sold price:</strong> $550,000</p>
+      <p><strong>Price / SqFt:</strong> $170.52</p>
+      <p><strong>HOA:</strong> $353 (Quarterly)</p>
+    </div>
+
+    <div class="card">
+      <h3>Basics</h3>
+      <p><strong>Beds/Baths:</strong> 4 bd · 4 full · 1 half</p>
+      <p><strong>Heated SqFt:</strong> 3,518</p>
+      <p><strong>Year built:</strong> 2022 (Construction Complete)</p>
+      <p><strong>Lot:</strong> 90×160 (≈0.33 acres)</p>
+      <p><strong>Garage:</strong> 3 spaces</p>
+    </div>
+
+    <div class="card">
+      <h3>Location & Utilities</h3>
+      <p><strong>Area:</strong> 04 - Bay North - West Deerpoint/Southport</p>
+      <p><strong>Water view:</strong> Lake</p>
+      <p><strong>Pool:</strong> No · <strong>Waterfront:</strong> No</p>
+      <p><strong>Utilities:</strong> Electricity, Public Sewer, Public Water (connected)</p>
+    </div>
+
+    <div class="card">
+      <h3>Comfort</h3>
+      <p><strong>Cooling:</strong> Central Air</p>
+      <p><strong>Heating:</strong> Central</p>
+      <p><strong>New Construction:</strong> Yes</p>
+    </div>
+  </section>
+
+  <section class="card" style="margin-top:16px" aria-label="Highlights">
+    <h3>Public Remarks</h3>
+    <p>Currently under contract. Significant price drop! Now $599,900 — Could this be your dream home? Discover unparalleled luxury and value at 12809 Merial Green Way, a never-lived-in custom-built home within the exclusive gated community of Lake Merial in Southport. Step inside and notice the soaring ceilings, oversized windows, and open-concept design. The chef-inspired kitchen features quartz countertops, white shaker cabinetry, stainless steel appliances, and a large island. This home is perfect for elevated living and entertaining.</p>
+  </section>
+
+  <section class="grid" style="margin-top:16px" aria-label="Features">
+    <div class="card">
+      <h3>Interior</h3>
+      <ul>
+        <li>Bonus Room</li>
+        <li>Ceiling — Raised</li>
+        <li>Floor — Vinyl Plank</li>
+        <li>Kitchen Island</li>
+        <li>Lighting — Recessed</li>
+        <li>Stairs</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>Exterior</h3>
+      <ul>
+        <li>Balcony</li>
+        <li>Deck — Covered</li>
+      </ul>
+      <h4>Appliances</h4>
+      <ul>
+        <li>Oven — Electric</li>
+        <li>Refrigerator</li>
+      </ul>
+      <h4>Association Includes</h4>
+      <ul>
+        <li>Gated</li>
+        <li>Lake</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="card" style="margin-top:16px" aria-label="Rooms">
+    <h3>Rooms</h3>
+    <table>
+      <thead><tr><th>Name</th><th>Level</th><th>Dimensions</th></tr></thead>
+      <tbody>
+        <tr><td>Living Room</td><td>First</td><td>28 × 18</td></tr>
+        <tr><td>Dining Room</td><td>First</td><td>16 × 16</td></tr>
+        <tr><td>Family Room</td><td>First</td><td>14 × 14</td></tr>
+        <tr><td>Kitchen</td><td>First</td><td>No specifics</td></tr>
+        <tr><td>Master Bedroom</td><td>Second</td><td>16 × 18</td></tr>
+        <tr><td>Bedroom</td><td>Second</td><td>14 × 14</td></tr>
+        <tr><td>Bedroom</td><td>Second</td><td>14 × 11</td></tr>
+        <tr><td>Bedroom</td><td>Second</td><td>10 × 8</td></tr>
+        <tr><td>Mud Room</td><td>First</td><td>6 × 16</td></tr>
+        <tr><td>Laundry</td><td>First</td><td>11 × 8</td></tr>
+        <tr><td>Full Bathroom</td><td>First</td><td>23 × 3</td></tr>
+        <tr><td>Half Bathroom</td><td>First</td><td>10 × 5</td></tr>
+        <tr><td>Full Bathroom</td><td>Second</td><td>15 × 17</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section class="grid" style="margin-top:16px" aria-label="Logistics & Contact">
+    <div class="card">
+      <h3>Directions</h3>
+      <p>From Bailey Bridge in Lynn Haven, head north on FL-77 for about 10 miles. Pass Southport Elementary and Bozeman School Road. Turn left onto Lake Merial Blvd, continue 0.7 miles, then turn right onto Merial Green Way. The property is on the left.</p>
+    </div>
+    <div class="card">
+      <h3>Contact</h3>
+      <p><strong>Office:</strong> LPT Realty LLC (LPTR)<br>
+         <strong>Phone:</strong> 850-980-8646<br>
+         <strong>Email:</strong> <a href="mailto:RealtyExpertKerry@gmail.com">RealtyExpertKerry@gmail.com</a><br>
+         <strong>Website:</strong> <a href="http://www.panamacitybeachhomesandcondos.com/">panamacitybeachhomesandcondos.com</a></p>
+      <p><strong>Listing Date:</strong> 05/11/2025</p>
+    </div>
+  </section>
+
+  <section style="margin-top:16px">
+    <h3>Raw JSON (for crawler fidelity)</h3>
+    <pre>{
+  "property": {
+    "address": "12809 Merial Green Way, Southport, FL 32409",
+    "list_price": 599900,
+    "sold_price": 550000,
+    "price_per_sqft": 170.52,
+    "area": "04 - Bay North - West Deerpoint/Southport",
+    "county": "Bay",
+    "subdivision": "Lake Merial Phase One",
+    "property_type": "Detached Single Family",
+    "bedrooms": 4,
+    "baths_full": 4,
+    "baths_half": 1,
+    "sqft_heated": 3518,
+    "construction_status": "Construction Complete",
+    "year_built": 2022,
+    "lot_size": "90x160",
+    "acreage": 0.33,
+    "garage_spaces": 3,
+    "hoa_fee": 353,
+    "hoa_frequency": "Quarterly",
+    "new_construction": true,
+    "pool": "No",
+    "waterfront": "No",
+    "water_view": "Lake",
+    "utilities": [
+      "Electricity - Connected",
+      "Public Sewer - Connected",
+      "Public Water - Connected"
+    ],
+    "rooms": [
+      { "name": "Living Room", "level": "First", "dimensions": "28 x 18" },
+      { "name": "Dining Room", "level": "First", "dimensions": "16 x 16" },
+      { "name": "Family Room", "level": "First", "dimensions": "14 x 14" },
+      { "name": "Kitchen", "level": "First", "dimensions": "No specifics" },
+      { "name": "Master Bedroom", "level": "Second", "dimensions": "16 x 18" },
+      { "name": "Bedroom", "level": "Second", "dimensions": "14 x 14" },
+      { "name": "Bedroom", "level": "Second", "dimensions": "14 x 11" },
+      { "name": "Bedroom", "level": "Second", "dimensions": "10 x 8" },
+      { "name": "Mud Room", "level": "First", "dimensions": "6 x 16" },
+      { "name": "Laundry", "level": "First", "dimensions": "11 x 8" },
+      { "name": "Full Bathroom", "level": "First", "dimensions": "23 x 3" },
+      { "name": "Half Bathroom", "level": "First", "dimensions": "10 x 5" },
+      { "name": "Full Bathroom", "level": "Second", "dimensions": "15 x 17" }
+    ],
+    "directions": "From Bailey Bridge in Lynn Haven, head north on FL-77 for about 10 miles. Pass Southport Elementary and Bozeman School Road. Turn left onto Lake Merial Blvd, continue 0.7 miles, then turn right onto Merial Green Way. The property is on the left.",
+    "public_remarks": "Currently under contract. Significant price drop! Now $599,900 - Could this be your dream home? Discover unparalleled luxury and value at 12809 Merial Green Way, a never-lived-in custom-built home within the exclusive gated community of Lake Merial in Southport. Step inside and notice the soaring ceilings, oversized windows, and open-concept design. The chef-inspired kitchen features quartz countertops, white shaker cabinetry, stainless steel appliances, and a large island. This home is perfect for elevated living and entertaining.",
+    "appliances": ["Oven - Electric", "Refrigerator"],
+    "cooling": "Central Air",
+    "heating": "Central",
+    "association_fees_included": ["Gated", "Lake"],
+    "exterior": ["Balcony", "Deck - Covered"],
+    "interior": ["Bonus Room","Ceiling - Raised","Floor - Vinyl Plank","Kitchen Island","Lighting - Recessed","Stairs"],
+    "contact": {
+      "office": "LPT Realty LLC (LPTR)",
+      "phone": "850-980-8646",
+      "email": "RealtyExpertKerry@gmail.com",
+      "website": "http://www.panamacitybeachhomesandcondos.com/"
+    },
+    "listing_date": "05/11/2025"
+  }
+}</pre>
+  </section>
+
+  <!-- robots.txt suggestion for the site root:
+  User-agent: *
+  Allow: /
+  -->
+</body>
+</html>
+```
