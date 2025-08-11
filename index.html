@@ -11,15 +11,34 @@
     li { margin: 0.5rem 0; }
     a { text-decoration: none; color: #0366d6; }
     a:hover { text-decoration: underline; }
+    .loading { color: #666; }
   </style>
 </head>
 <body>
   <h1>Available Datasets</h1>
-  <ul>
-    <li><a href="datasets/portside.html">Portside</a></li>
-    <li><a href="datasets/kerry.html">Kerry</a></li>
-    <!-- Add more datasets here -->
+  <ul id="dataset-list">
+    <li class="loading">Loading datasets...</li>
   </ul>
-  <p><small>Use <code>?site=yourparam</code> at the end of a dataset URL to load specific content.</small></p>
+
+  <script>
+    async function loadDatasets() {
+      try {
+        const res = await fetch('manifest.json');
+        const manifest = await res.json();
+        const list = document.getElementById('dataset-list');
+        list.innerHTML = ''; // clear loading text
+
+        manifest.datasets.forEach(ds => {
+          const li = document.createElement('li');
+          li.innerHTML = `<a href="datasets/${ds.slug}.html">${ds.title}</a>`;
+          list.appendChild(li);
+        });
+      } catch (err) {
+        document.getElementById('dataset-list').innerHTML = '<li>Error loading manifest.</li>';
+      }
+    }
+    loadDatasets();
+  </script>
 </body>
 </html>
+
